@@ -8,6 +8,8 @@ The Model Sliding method offers an interactive and user-friendly interface. User
 
 Include your Fine-Tune Model, the logic is built in to refine optimal responses.
 
+![Application Screenshot](./images/model.gif)
+
 ## Meta Model Sliding: A Proof of Concept for Dynamic Model Selection
 
 In an era where artificial intelligence is rapidly advancing, there is an abundance of AI models, each with its unique strengths and specializations. Leveraging these strengths for specific tasks can significantly enhance performance. However, the challenge lies in switching seamlessly between these models, ensuring that each task is handled by the most competent model.
